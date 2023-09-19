@@ -3,3 +3,4 @@ Hello from main
 =======
 Hello from branch
 >>>>>>> conflict
+HelloThere!
